@@ -1,5 +1,5 @@
 # Player-buttons
-Player simples com algumas funções <br>
+Video player simples com algumas funções <br>
 ## Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
